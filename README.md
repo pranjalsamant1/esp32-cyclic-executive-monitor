@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/images/architecture.png" alt="ESP32 Cyclic Executive Architecture" width="700">
+</p>
+
+<p align="center">
+  <em>System architecture of the ESP32 cyclic executive monitor</em>
+</p>
+
 ## ESP32 Cyclic Executive Monitor (Embedded Software)
 
 An embedded systems project implementing a **cyclic-executive–style scheduler** on an ESP32 to execute a set of periodic real-time tasks.
